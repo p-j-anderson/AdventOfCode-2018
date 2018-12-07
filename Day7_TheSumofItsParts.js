@@ -1,6 +1,6 @@
 /**
  * Advent of Code - Day 7
- * The Sum Of Its Parts: https://adventofcode.com/2018/leaderboard/day/7
+ * The Sum Of Its Parts: https://adventofcode.com/2018/day/7
  */
 
 const fs = require('fs')
