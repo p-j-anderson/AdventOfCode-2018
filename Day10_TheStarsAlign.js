@@ -1,6 +1,6 @@
 /**
  * Advent of Code - Day 10
- * The Stars Align: https://adventofcode.com/2018/leaderboard/day/10
+ * The Stars Align: https://adventofcode.com/2018/day/10
  */
 
 const fs = require('fs')
